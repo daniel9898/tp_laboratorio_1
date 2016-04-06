@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1459914190 source:c:\users\dani\desktop\primeros programas en c\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1459828868 source:c:\users\dani\desktop\primeros programas en c\tp1\funcionestp1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
