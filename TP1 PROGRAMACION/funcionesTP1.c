@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <conio.h>
 
 /** \brief suma los 2 numeros ingresados por el usuario
  * \param x primer numero ingresado
@@ -39,8 +38,8 @@ float resta(float x,float y)
      {
          return printf("La division es %.2f \n",division);
      }
- }
 
+ }
    /** \brief Multiplica los 2 numeros ingresados por el usuario
  * \param x primer numero ingresado
  * \param y segundo numero ingresado

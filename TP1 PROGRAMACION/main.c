@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <conio.h>
+#include "prototipos funcionesTP1.h"
 
 float suma(float x,float y);
 float resta(float x,float y);
