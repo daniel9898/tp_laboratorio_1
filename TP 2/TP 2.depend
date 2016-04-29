@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1461864864 source:c:\users\dani\desktop\repaso clases\tp 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"FuncionesTp2.h"
+
+1461858271 source:c:\users\dani\desktop\repaso clases\tp 2\funcionestp2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"FuncionesTp2.h"
+
+1461857230 c:\users\dani\desktop\repaso clases\tp 2\funcionestp2.h
+
