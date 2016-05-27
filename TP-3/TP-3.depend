@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1464358275 source:c:\users\dani\desktop\repaso clases\tp-3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"Peliculas.h"
+	"funciones.h"
+	"archivosBin.h"
+
+1464231334 c:\users\dani\desktop\repaso clases\tp-3\peliculas.h
+
+1464232624 source:c:\users\dani\desktop\repaso clases\tp-3\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Peliculas.h"
+	"funciones.h"
+
+1464358199 c:\users\dani\desktop\repaso clases\tp-3\funciones.h
+
+1464358199 source:c:\users\dani\desktop\repaso clases\tp-3\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Peliculas.h"
+	"funciones.h"
+
+1464357994 source:c:\users\dani\desktop\repaso clases\tp-3\archivosbin.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"Peliculas.h"
+	"funciones.h"
+
+1464231709 c:\users\dani\desktop\repaso clases\tp-3\archivosbin.h
+
