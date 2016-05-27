@@ -250,8 +250,8 @@ void borrarPelicula(EMovie movie[],int longitud)
 
 
 }
-/** \brief modifica los datos seleccionados de una metricula
- * \param aviones es la estructura en la cual se modificaran datos
+/** \brief modifica los datos seleccionados de una pelicula
+ * \param movie es la estructura en la cual se modificaran datos
  * \param longitud cantidad maxima de elementos del array movie
  * \return -
 
