@@ -29,7 +29,7 @@ int main()
 	{
 		printf("Se cargaron las estructuras con exito\n");
         system("pause");
-	    system("cls");
+        system("cls");
 	}
 
 
@@ -121,10 +121,10 @@ int main()
 						printf("\nNo se pudo abrir el fichero\n");
                         }
 					    else
-					   {
+					    {
 						printf("\nSe guardo la informacion con exito\n");
-                       }
-				   }
+                        }
+				    }
 
                    seguir = 'n';
                    break;
