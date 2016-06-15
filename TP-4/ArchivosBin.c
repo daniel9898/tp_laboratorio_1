@@ -8,11 +8,10 @@
 #include "ArchivosBin.h"
 #include "-ArrayList.h"
 
-/** \brief
- *
- * \param
- * \param
- * \return
+/** \brief carga desde un archivo binario la cantidad de datos ingresados
+ * \param plist lista donde se guaradara el dato leido
+ * \param plistBajas lista donde se guaradara el dato leido
+ * \return (1) si el archivo ala estrucutura es NULL ,(o) si tuvo exito
  *
  */
 int cargarSIZEdesArchivo(ArrayList* plist,ArrayList* plistBajas)
@@ -56,11 +55,10 @@ int cargarSIZEdesArchivo(ArrayList* plist,ArrayList* plistBajas)
     fclose(F1);
     return retorno;
 }
-/** \brief
- *
- * \param
- * \param
- * \return
+/** \brief  guarda en un archivo binario la cantidad de datos ingresados
+ * \param  lista desde la cual se tomara el dato a guardar
+ * \param plistBajas  lista desde la cual se tomara el dato a guardar
+ * \return (1) si el archivo ala estrucutura es NULL ,(o) si tuvo exito
  *
  */
 int GuardarSizeEnArchivo(ArrayList* plist,ArrayList* plistBajas)
@@ -87,7 +85,8 @@ int GuardarSizeEnArchivo(ArrayList* plist,ArrayList* plistBajas)
     return retorno;
 }
 /** \brief carga las estructuras desde un archivo binario
- * \param movie estructura donde se van a cargar los datos
+ * \param plist lista de la cual se accedera al a funciones del arraylist
+ *\param  plistBajas lista de la cual se accedera al a funciones del arraylist
  * \return 1 sino pudo cargar o si pudo
  */
 int cargarDesdeArchivo(ArrayList* plist,ArrayList* plistbajas)//
@@ -113,8 +112,6 @@ int cargarDesdeArchivo(ArrayList* plist,ArrayList* plistbajas)//
 
     if(flag ==0 && plist != NULL)
     {
-        //printf("dentro de cargar desde archivo cant:%d cant2:%d\n",cant,cant2);//llegan bien los valores
-        //getch();
         for (i=0; i<cant; i++)
         {
             EMovie*Pmovies = (EMovie*) malloc(sizeof(EMovie));
@@ -144,6 +141,8 @@ int cargarDesdeArchivo(ArrayList* plist,ArrayList* plistbajas)//
 }
 /** \brief guarda los datos en un archivo binario
  * \param movie estructura desde donde se copiaran los datos
+ *\param plist lista de la cual se accedera al a funciones del arraylist
+ *\param plistBajas lista de la cual se accedera al a funciones del arraylist
  * \return 1 sino pudo guardar 0 si pudo
  */
 int guardarEnArchivo(EMovie *movie,ArrayList* plist,ArrayList* plistBajas)
