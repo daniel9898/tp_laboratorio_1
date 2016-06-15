@@ -1,0 +1,210 @@
+# depslib dependency file v1.0
+1465759887 source:c:\users\dani\desktop\repaso clases\tp--4\archivosbin.c
+
+1465845745 source:c:\users\dani\desktop\repaso clases\tp--4\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"-ArrayList.h"
+
+1465784115 c:\users\dani\desktop\repaso clases\tp--4\-arraylist.h
+
+1465844670 source:c:\users\dani\desktop\repaso clases\tp--4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"Peliculas.h"
+	"funciones.h"
+	"ArchivosBin.h"
+	"-ArrayList.h"
+
+1465844728 c:\users\dani\desktop\repaso clases\tp--4\peliculas.h
+	"-ArrayList.h"
+
+1465767430 c:\users\dani\desktop\repaso clases\tp--4\funciones.h
+
+1465759907 c:\users\dani\desktop\repaso clases\tp--4\archivosbin.h
+
+1465844771 source:c:\users\dani\desktop\repaso clases\tp--4\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"Peliculas.h"
+	"funciones.h"
+	"ArchivosBin.h"
+	"-ArrayList.h"
+
+1465767430 source:c:\users\dani\desktop\repaso clases\tp--4\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"Peliculas.h"
+	"funciones.h"
+	"ArchivosBin.h"
+	"-ArrayList.h"
+
+1465759888 source:f:\tp--4\archivosbin.c
+
+1465845746 source:f:\tp--4\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"-ArrayList.h"
+
+1465784116 f:\tp--4\-arraylist.h
+
+1465767432 source:f:\tp--4\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"Peliculas.h"
+	"funciones.h"
+	"ArchivosBin.h"
+	"-ArrayList.h"
+
+1465844730 f:\tp--4\peliculas.h
+	"-ArrayList.h"
+
+1465767432 f:\tp--4\funciones.h
+
+1465759908 f:\tp--4\archivosbin.h
+
+1465844672 source:f:\tp--4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"Peliculas.h"
+	"funciones.h"
+	"ArchivosBin.h"
+	"-ArrayList.h"
+
+1465854178 source:f:\tp--4\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"Peliculas.h"
+	"funciones.h"
+	"ArchivosBin.h"
+	"-ArrayList.h"
+
+1465759888 source:c:\users\alumno\desktop\tp--4\archivosbin.c
+
+1465862318 source:c:\users\alumno\desktop\tp--4\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"-ArrayList.h"
+
+1465784116 c:\users\alumno\desktop\tp--4\-arraylist.h
+
+1465767432 source:c:\users\alumno\desktop\tp--4\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"Peliculas.h"
+	"funciones.h"
+	"ArchivosBin.h"
+	"-ArrayList.h"
+
+1465865690 c:\users\alumno\desktop\tp--4\peliculas.h
+	"-ArrayList.h"
+
+1465767432 c:\users\alumno\desktop\tp--4\funciones.h
+
+1465759908 c:\users\alumno\desktop\tp--4\archivosbin.h
+
+1465859133 source:c:\users\alumno\desktop\tp--4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"Peliculas.h"
+	"funciones.h"
+	"ArchivosBin.h"
+	"-ArrayList.h"
+
+1465865787 source:c:\users\alumno\desktop\tp--4\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"Peliculas.h"
+	"funciones.h"
+	"ArchivosBin.h"
+	"-ArrayList.h"
+
+1465987976 source:d:\tp---4\archivosbin.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"Peliculas.h"
+	"funciones.h"
+	"ArchivosBin.h"
+	"-ArrayList.h"
+
+1465991401 source:d:\tp---4\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"-ArrayList.h"
+
+1465784116 d:\tp---4\-arraylist.h
+
+1465988326 source:d:\tp---4\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"Peliculas.h"
+	"funciones.h"
+	"ArchivosBin.h"
+	"-ArrayList.h"
+
+1465934347 d:\tp---4\peliculas.h
+	"-ArrayList.h"
+
+1465767432 d:\tp---4\funciones.h
+
+1465988303 d:\tp---4\archivosbin.h
+
+1465988109 source:d:\tp---4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"Peliculas.h"
+	"funciones.h"
+	"ArchivosBin.h"
+	"-ArrayList.h"
+
+1465934239 source:d:\tp---4\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"Peliculas.h"
+	"funciones.h"
+	"ArchivosBin.h"
+	"-ArrayList.h"
+
